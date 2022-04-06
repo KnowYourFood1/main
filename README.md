@@ -11,7 +11,7 @@ KnowYourFood is a recipe app in which the user see recipes from different sites.
 
 
 ### App Walkthrough GIF
-<img src="http://g.recordit.co/oNLbqKKbqw.gif" width=250><br>
+<img src="http://g.recordit.co/RT1JP8o89N.gif" width=250><br>
 
 ### Notes
 Made by Diya Jain, Suraj Kumar, Ryan Feinberg, Khoa Doan for the CodePath iOS Group Project.
